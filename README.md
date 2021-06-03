@@ -1,5 +1,4 @@
 # Basic-Todo-Flask
-================
 Basic-Todo-flask is a simple app made to perform basic crud operations on a database, includes bootstrap. This app can be used to add,update,view and delete todo.
 
 Flask extensions used:
