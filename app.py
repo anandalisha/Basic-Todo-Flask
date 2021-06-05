@@ -32,7 +32,7 @@ def hello_world():
 def products():
     allTodo = Todo.query.all()
     print(allTodo)
-    return 'this is products page'
+    return 'Todo'
 
 @app.route('/update/<int:sno>', methods=['GET', 'POST'])
 def update(sno):
